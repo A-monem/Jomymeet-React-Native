@@ -32,7 +32,6 @@ local.properties
 app/
 google-services.json
 
-
 # node.js
 #
 node_modules/

@@ -6,8 +6,8 @@ import { firebaseLogin } from '../api/Firebase'
 
 
 export default function Login({ navigation }) {
-    const [email, setEmail] = useState('test3@jomymeet.com')
-    const [password, setPassword] = useState('Banana101')
+    const [email, setEmail] = useState('')
+    const [password, setPassword] = useState('')
     const [isLoading, setIsLoading] = useState(false)
 
     const handleLogin = () => {
