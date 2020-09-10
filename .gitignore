@@ -32,8 +32,6 @@ local.properties
 app/
 google-services.json
 
-android/
-java_pid16992.hprof
 
 # node.js
 #
