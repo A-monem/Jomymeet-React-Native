@@ -17,9 +17,6 @@ class VideoCall extends React.Component {
   }
 
   componentDidMount() {
- 
-    console.log(this.class)
-    console.log(this.user)
 
     setTimeout(() => {
       const url = `https://meet.jit.si/${this.class.subject}${this.user.grade}${this.day[0]}Jomymeet`; // can also be only room name and will connect to jitsi meet servers

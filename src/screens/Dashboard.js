@@ -20,7 +20,7 @@ export default function Login({ navigation, route }) {
                         {start: {hour: 9, minute: 30}, finish: {hour: 10, minute: 15}}, 
                         {start: {hour: 10, minute: 30}, finish: {hour: 11, minute: 15}}, 
                         {start: {hour: 11, minute: 30}, finish: {hour: 12, minute: 15}}, 
-                        {start: {hour: 12, minute: 30}, finish: {hour: 23, minute: 15}}]
+                        {start: {hour: 12, minute: 30}, finish: {hour: 13, minute: 15}}]
     const time = {}
     const day = days[date.current.getDay()]
     useEffect(() => {
@@ -55,6 +55,8 @@ export default function Login({ navigation, route }) {
                 skipBackup: true,
                 path: 'images',
             },
+            maxWidth: 400, 
+            maxHeight: 400
         };
 
         ImagePicker.showImagePicker(options, (response) => {
@@ -179,7 +181,7 @@ export default function Login({ navigation, route }) {
                         renderItem={renderItem}
                         sliderWidth={sliderWidth}
                         itemWidth={itemWidth}
-                        containerCustomStyle={styles.carouselContainer}
+                        containerCustomStyle={{ flexGrow: 0 }}
                         onSnapToItem={(index) => console.log(index)}
                     />
 
@@ -235,9 +237,6 @@ const styles = StyleSheet.create({
     },
     button: {
         backgroundColor: '#9c27b0',
-    },
-    carouselContainer: {
-        marginTop: 50,
     },
     carouselImage: {
         height: '50%',
