@@ -39,9 +39,9 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 # Screenshots
 
 ## Android
-![Login screenshot](/screenshots/android/signin.png)
+![Login screenshot](/screenshots/android/signin.png =100x20)
 
-![Class1 screenshot](/screenshots/android/available_class.png)
+![Class1 screenshot](/screenshots/android/available_class.png =100x20)
 
 ![Class2 screenshot](/screenshots/android/finished_class.png)
 
@@ -60,9 +60,9 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 
 ![Login screenshot](/screenshots/iOS/signin.PNG)
 
-![Class1 screenshot](/screenshots/android/available_class.PNG)
+![Class1 screenshot](/screenshots/iOS/available_class.PNG)
 
-![Class1 screenshot](/screenshots/android/available_class2.PNG)
+![Class1 screenshot](/screenshots/iOS/available_class2.PNG)
 
 ![Class3 screenshot](/screenshots/iOS/disabled_class.PNG)
 
