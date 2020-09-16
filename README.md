@@ -41,6 +41,8 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 ## Android
 ![Login screenshot](/screenshots/android/signin.png =100x20)
 
+<img src="./screenshots/android/signin.png" width="100" height="20" />
+
 ![Class1 screenshot](/screenshots/android/available_class.png | width=20)
 
 ![Class2 screenshot](/screenshots/android/finished_class.png)
