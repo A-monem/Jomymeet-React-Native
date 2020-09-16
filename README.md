@@ -39,23 +39,21 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 # Screenshots
 
 ## Android
-![Login screenshot](/screenshots/android/signin.png =100x20)
+<img alt="Login screenshot" src="./screenshots/android/signin.png" width="200" height="350" />
 
-<img src="./screenshots/android/signin.png" width="200" height="350" />
+<img alt="Class1 screenshot" src="./screenshots/android/available_class.png" width="200" height="350" />
 
-![Class1 screenshot](/screenshots/android/available_class.png | width=20)
+<img alt="Class2 screenshot" src="./screenshots/android/finished_class.png" width="200" height="350" />
 
-![Class2 screenshot](/screenshots/android/finished_class.png)
+<img alt="Session screenshot" src="./screenshots/android/session.png" width="200" height="350" />
 
-![Session screenshot](/screenshots/android/session.png)
+<img alt="Session2 screenshot" src="./screenshots/android/tile.png" width="200" height="350" />
 
-![Session2 screenshot](/screenshots/android/tile.png)
+<img alt="Screenshare screenshot" src="./screenshots/android/screenshare.png" width="200" height="350" />
 
-![Screenshare screenshot](/screenshots/android/screenshare.png)
+<img alt="Options screenshot" src="./screenshots/android/options.png" width="200" height="350" />
 
-![Options screenshot](/screenshots/android/options.png)
-
-![Chat screenshot](/screenshots/android/chat.png)
+<img alt="Chat screenshot" src="./screenshots/android/chat.png" width="200" height="350" />
 
 ## iOS
 ![Splash screenshot](/screenshots/iOS/splash.PNG)
