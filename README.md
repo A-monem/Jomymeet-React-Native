@@ -56,22 +56,22 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 <img alt="Chat screenshot" src="./screenshots/android/chat.png" width="200" height="350" />
 
 ## iOS
-![Splash screenshot](/screenshots/iOS/splash.PNG)
+<img alt="Splash screenshot" src="./screenshots/iOS/splash.PNG" width="200" height="350" />
 
-![Login screenshot](/screenshots/iOS/signin.PNG)
+<img alt="Signin screenshot" src="./screenshots/iOS/signin.PNG" width="200" height="350" />
 
-![Class1 screenshot](/screenshots/iOS/available_class.PNG)
+<img alt="Class1 screenshot" src="./screenshots/iOS/available_class.PNG" width="200" height="350" />
 
-![Class1 screenshot](/screenshots/iOS/available_class2.PNG)
+<img alt="Class2 screenshot" src="./screenshots/iOS/available_class2.PNG" width="200" height="350" />
 
-![Class3 screenshot](/screenshots/iOS/disabled_class.PNG)
+<img alt="Class3 screenshot" src="./screenshots/iOS/disabled_class.PNG" width="200" height="350" />
 
-![Session screenshot](/screenshots/iOS/session.PNG)
+<img alt="Session screenshot" src="./screenshots/iOS/session.PNG" width="200" height="350" />
 
-![Session2 screenshot](/screenshots/iOS/tile.PNG)
+<img alt="Session2 screenshot" src="./screenshots/iOS/tile.PNG" width="200" height="350" />
 
-![Screenshare screenshot](/screenshots/iOS/screenshare.PNG)
+<img alt="Screenshare screenshot" src="./screenshots/iOS/screenshare.PNG" width="200" height="350" />
 
-![Options screenshot](/screenshots/iOS/options.PNG)
+<img alt="Options screenshot" src="./screenshots/iOS/options.PNG" width="200" height="350" />
 
-![Chat screenshot](/screenshots/iOS/chat.PNG)
+<img alt="Chat screenshot" src="./screenshots/iOS/chat.PNG" width="200" height="350" />
