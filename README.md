@@ -38,9 +38,40 @@ you can test it by logging in as an ADMIN or by logging in as a STUDENT using th
 
 # Screenshots
 
-![Login screenshot](/screenshots/login.JPG)
-![Timetable screenshot](/screenshots/timetable.JPG)
-![Session screenshot](/screenshots/session.JPG)
-![Admin1 screenshot](/screenshots/admin1.JPG)
-![Admin2 screenshot](/screenshots/admin2.JPG)
-![Admin3 screenshot](/screenshots/admin3.JPG)
+## Android
+![Login screenshot](/screenshots/android/signin.png)
+
+![Class1 screenshot](/screenshots/android/available_class.png)
+
+![Class2 screenshot](/screenshots/android/finished_class.png)
+
+![Session screenshot](/screenshots/android/session.png)
+
+![Session2 screenshot](/screenshots/android/tile.png)
+
+![Screenshare screenshot](/screenshots/android/screenshare.png)
+
+![Options screenshot](/screenshots/android/options.png)
+
+![Chat screenshot](/screenshots/android/chat.png)
+
+## iOS
+![Splash screenshot](/screenshots/iOS/splash.PNG)
+
+![Login screenshot](/screenshots/iOS/signin.PNG)
+
+![Class1 screenshot](/screenshots/android/available_class.PNG)
+
+![Class1 screenshot](/screenshots/android/available_class2.PNG)
+
+![Class3 screenshot](/screenshots/iOS/disabled_class.PNG)
+
+![Session screenshot](/screenshots/iOS/session.PNG)
+
+![Session2 screenshot](/screenshots/iOS/tile.PNG)
+
+![Screenshare screenshot](/screenshots/iOS/screenshare.PNG)
+
+![Options screenshot](/screenshots/iOS/options.PNG)
+
+![Chat screenshot](/screenshots/iOS/chat.PNG)
