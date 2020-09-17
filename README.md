@@ -1,5 +1,5 @@
 # What is Jomy ? 
-Jomy is the world's best e-learning platform designed to help connecting teachers and students in virtual classrooms via videoconferencing technology.
+Jomy is the world's best e-learning platform designed to help connecting teachers and students in virtual classrooms via video conferencing technology.
 
 Jomy uses Jitsi meet (open source) video conferenceing library, which comes with the following options:
  1) Screen share
@@ -18,11 +18,11 @@ Jomy uses Jitsi meet (open source) video conferenceing library, which comes with
  Above all Jomy can be self hosted at your facility or on the cloud for optimum security.
 
 # How it works ?
-A admin person has to enrol studnets by adding their e-mail address, grade and classroom. the admin person is also responsible for creating the timetable for each classroom.
-Studnets can then login to their dashboard and connect to their virtual classroom.
+A admin person has to enrol students by adding their e-mail address, grade and classroom. the admin person is also responsible for creating the timetable for each classroom.
+Students can then login to their dashboard and connect to their virtual classroom.
 
 # Where is it available ?
-Jomy is available as a web app (https://jomymeet.com/) as well as android and iOS mobile apps. Check this repo (https://github.com/A-monem/Jomymeet-React)
+Jomy is available as a web app (https://www.jomymeet.com/) as well as android and iOS mobile apps. Check this repo (https://github.com/A-monem/Jomymeet-React)
 
 # How can I test it ?
 you can test it by logging in as an ADMIN or by logging in as a STUDENT using the following credentials:
